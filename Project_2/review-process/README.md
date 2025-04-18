@@ -73,8 +73,9 @@ You should see your terminal output `SUCCESS!`.
 These instructions have been based off of documentation from the [OpenAI API](https://platform.openai.com/docs/libraries?desktop-os=windows&language=python). 
 
 There are three Python files and one markdown file which you will modify in this repository to complete this project:
-* cleaner.py
-* metrics.py
+
+* label.py
+* visualize.py
 * main.py
 * writeup.md
 
